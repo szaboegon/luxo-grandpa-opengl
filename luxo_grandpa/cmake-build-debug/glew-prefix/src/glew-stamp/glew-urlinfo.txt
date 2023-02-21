@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=D:/Program Files (x86)/Jetbrains/apps/CLion/ch-0/223.8617.54/bin/cmake/win/x64/bin/cmake.exe;-P;C:/Users/User/Documents/GitHub/grafika_hf2/luxo_grandpa/cmake-build-debug/glew-prefix/src/glew-stamp/download-glew.cmake;COMMAND;D:/Program Files (x86)/Jetbrains/apps/CLion/ch-0/223.8617.54/bin/cmake/win/x64/bin/cmake.exe;-P;C:/Users/User/Documents/GitHub/grafika_hf2/luxo_grandpa/cmake-build-debug/glew-prefix/src/glew-stamp/verify-glew.cmake;COMMAND;D:/Program Files (x86)/Jetbrains/apps/CLion/ch-0/223.8617.54/bin/cmake/win/x64/bin/cmake.exe;-P;C:/Users/User/Documents/GitHub/grafika_hf2/luxo_grandpa/cmake-build-debug/glew-prefix/src/glew-stamp/extract-glew.cmake
+source_dir=C:/Users/User/Documents/GitHub/grafika_hf2/luxo_grandpa/src/glew
+work_dir=C:/Users/User/Documents/GitHub/grafika_hf2/luxo_grandpa/src
+url(s)=https://downloads.sourceforge.net/project/glew/glew/2.1.0/glew-2.1.0-win32.zip
+hash=
+no_extract=
+
